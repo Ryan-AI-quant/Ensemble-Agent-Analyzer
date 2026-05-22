@@ -1,0 +1,20 @@
+{
+  "rss_sources": [
+    {
+      "name": "CNBC News",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+      "category": "international"
+    },
+
+    {
+      "name": "CNBC News",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "category": "top"
+    },
+    {
+      "name": "News",
+      "url": "https://rss.eastmoney.com/rss_partener.xml",
+      "category": "news"
+    }
+  ]
+}
